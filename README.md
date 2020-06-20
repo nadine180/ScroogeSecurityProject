@@ -3,14 +3,14 @@ A security project done for class depicting a centralized arbiter 'Scrooge' and 
 Done using Java.
 
 Consists of 8 classes:
-Scrooge
-Simulator
-KeyListenerDemo
-User
-Coin
-Transaction
-Block
-Ledger
+Scrooge,
+Simulator,
+KeyListenerDemo,
+User,
+Coin,
+Transaction,
+Block,
+Ledger,
 
 To run the system:
 run the simulator class which creates Scrooge, generates the coins, creates users and distributes the coins to users and then create random transactions between users. 
